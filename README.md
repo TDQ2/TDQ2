@@ -6,8 +6,6 @@ Before becoming a software engineer, I worked in finance / private equity.
 
 I've completed a bootcamp at Fullstack Academy and am interning at DPL Financial.
 
-I'm currently working on a 2D multiply-player game side project.
-
 Please see these links for my latest personal project work: https://github.com/vibewave/vibewave and https://github.com/graceshopper-cherry-garcia/graceshopper-project
 <!--
 **TDQ2/TDQ2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
